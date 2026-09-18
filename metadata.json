@@ -1,0 +1,8 @@
+{
+  "name": "Remix TripAI – AI Travel Planner",
+  "description": "Plan your perfect trip with AI. Smart itinerary generation, budget management, interactive route maps, collaborative travel, and personal AI travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
